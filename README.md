@@ -41,7 +41,7 @@ To use the **AI BlogPost Generator**, follow these steps:
 1. Clone the repository:
 
     ```
-    git clone https://github.com/yourusername/ai-blogpost-generator.git
+    git clone github.com/AiwizReddy/Ai-Blogpost-Generator.git
     ```
 
 2. Install dependencies:
